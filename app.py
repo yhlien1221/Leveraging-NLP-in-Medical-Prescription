@@ -36,7 +36,7 @@ clf, vectorizer_tfidf = load_model()
 
 
 # 🔹 Hugging Face API for Treatment Recommendations
-HF_API_KEY = "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"  # Replace with your actual API key
+HF_API_KEY = st.secrets["HF_API_KEY"]
 
 def get_treatment_recommendation(disease):
     """Query Hugging Face API for AI-powered treatment recommendations."""
