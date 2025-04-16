@@ -26,3 +26,31 @@ The project was divided into multiple tasks. This repository includes contributi
 
 ## 📂 Repository Structure
 
+├── data/ # Sample and anonymized data used for preprocessing and modeling ├── notebooks/ # Jupyter notebooks used during exploration and modeling ├── models/ # Trained models and model artifacts ├── preprocessing/ # Scripts for data cleaning and preparation ├── evaluation/ # Metrics and evaluation scripts ├── README.md # Project overview and structure (this file)
+
+
+
+## 🧠 Technologies Used
+
+- Python (pandas, scikit-learn, spaCy, Transformers)
+- Jupyter Notebook
+- Git/GitHub for collaboration
+
+## 👨‍💻 My Role
+
+As a contributor to this project, I worked as a **Task 2 & Task 4 lead**, where I:
+
+- Led efforts in data preprocessing and cleaning.
+- Developed initial baseline NER and classification models.
+- Collaborated with team members to evaluate model performance and guide improvements.
+
+## 📎 Additional Resources
+
+- [Project page on Omdena](https://www.omdena.com/chapter-challenges/leveraging-nlp-in-medical-prescription-administration-and-information)
+- [My GitHub Profile](https://github.com/yhlien1221)
+
+## 📫 Contact
+
+Feel free to reach out if you have any questions or would like to collaborate!
+
+
