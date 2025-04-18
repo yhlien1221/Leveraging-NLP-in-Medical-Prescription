@@ -48,8 +48,9 @@ The project was divided into multiple tasks. This repository includes contributi
 Leveraging-NLP-in-Medical-Prescription/
 ├── app/
 │   ├── app.py
-│   ├── Streamlit_Disease_Prediction_TFIDF_Plus_Random_Forest.ipynb
-│   ├── Streamlit_Disease_Prediction_treatment_recommendation_TFIDF_Plus_Random_Forest.ipynb
+│   ├── disease_model.pkl
+│   ├── tfidf_vectorizer.pkl
+│   ├── processed_diseases-priority.csv
 │   └── requirements.txt
 │
 ├── notebooks/
@@ -63,13 +64,6 @@ Leveraging-NLP-in-Medical-Prescription/
 │   ├── merge_demo_amos_v3.ipynb
 │   ├── Modelling_Tfidf_plus_random_forest.ipynb
 │   └── Modelling_Tfidf_plus_random_forest_oversampling.ipynb
-│
-├── models/
-│   ├── disease_model.pkl
-│   └── tfidf_vectorizer.pkl
-│
-├── data/
-│   └── processed_diseases-priority.csv
 │
 └── README.md
 ```
