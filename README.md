@@ -6,16 +6,17 @@ This repository contains work contributed to the [Omdena Chapter Challenge](http
 
 The goal of the project was to develop NLP-based solutions that can:
 
-- Improve access to reliable and patient-friendly prescription information.
-- Help reduce medical errors related to misunderstanding prescriptions.
-- Support healthcare providers and patients in prescription administration and compliance.
-
-The project involved building models and tools capable of extracting structured information from unstructured prescription texts and generating user-friendly summaries.
+- Build a disease classification model based on input symptoms.
+- Develop a system that provides suggestions for appropriate medications or further treatment.
 
 ## 🔍 Project Tasks
 
 The project was divided into multiple tasks. This repository includes contributions primarily related to:
 
+- **Task 1: Data Collection**
+  -Scrape data from online sources using libraries like BeautifulSoup and Scrapy.
+  -Store raw data in a centralized repository.
+  
 - **Task 2: Data Preprocessing**
   - Data cleaning, tokenization, entity labeling.
   - Standardizing prescription data formats across multiple sources.
@@ -23,6 +24,11 @@ The project was divided into multiple tasks. This repository includes contributi
 - **Task 4: Model Building**
   - Named Entity Recognition (NER) for key prescription entities (e.g., drug name, dosage, frequency).
   - Text classification models for categorizing prescription instructions.
+
+- **Task 5: Deployment deploy web app on Streamlit**
+  - Upload the trained model and all required files (e.g., tokenizer, label encoder, configuration files) to the Streamlit Community Cloud.
+  - Ensure the app runs smoothly and provides accurate predictions based on user input.
+  - Test the deployment environment and debug any issues related to file loading or app functionality.
 
 ## 📂 Repository Structure
 
