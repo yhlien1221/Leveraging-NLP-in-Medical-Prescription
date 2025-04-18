@@ -1,6 +1,6 @@
 # Leveraging NLP in Medical Prescription Administration and Information
 
-This repository contains work contributed to the [Omdena Taipei Chapter Challenge](https://www.omdena.com/chapter-challenges/leveraging-nlp-in-medical-prescription-administration-and-information), a collaborative AI project focused on improving medical prescription understanding through Natural Language Processing (NLP).
+This repository contains work contributed to the [Omdena Chapter Challenge](https://www.omdena.com/chapter-challenges/leveraging-nlp-in-medical-prescription-administration-and-information), a collaborative AI project focused on improving medical prescription understanding through Natural Language Processing (NLP).
 
 ## 🌟 Project Overview
 
