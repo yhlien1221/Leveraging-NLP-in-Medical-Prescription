@@ -32,13 +32,7 @@ The project was divided into multiple tasks. This repository includes contributi
 
 ## 📂 Repository Structure
 
-📁 Repository Structure
-├── data/           # Sample and anonymized data used for preprocessing and modeling
-├── notebooks/      # Jupyter notebooks used during exploration and modeling
-├── models/         # Trained models and model artifacts
-├── preprocessing/  # Scripts for data cleaning and preparation
-├── evaluation/     # Metrics and evaluation scripts
-└── README.md       # Project overview and structure (this file)
+<pre> ## 📁 Repository Structure ``` ├── data/ # Sample and anonymized data used for preprocessing and modeling ├── notebooks/ # Jupyter notebooks used during exploration and modeling ├── models/ # Trained models and model artifacts ├── preprocessing/ # Scripts for data cleaning and preparation ├── evaluation/ # Metrics and evaluation scripts └── README.md # Project overview and structure (this file) ``` </pre>
 
 
 ## 🧠 Technologies Used
