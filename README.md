@@ -47,7 +47,7 @@ The project was divided into multiple tasks. This repository includes contributi
 
 ## 🧠 Technologies Used
 
-- Python (pandas, scikit-learn, spaCy, Transformers)
+- Python (pandas, scikit-learn, spaCy, BeautifulSoup)
 - Jupyter Notebook
 - Git/GitHub for collaboration
 
