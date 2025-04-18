@@ -44,6 +44,36 @@ The project was divided into multiple tasks. This repository includes contributi
 
 └── README.md # Project overview and structure (this file)
 
+```bash
+Leveraging-NLP-in-Medical-Prescription/
+├── app/
+│   ├── app.py
+│   ├── Streamlit_Disease_Prediction_TFIDF_Plus_Random_Forest.ipynb
+│   ├── Streamlit_Disease_Prediction_treatment_recommendation_TFIDF_Plus_Random_Forest.ipynb
+│   └── requirements.txt
+│
+├── notebooks/
+│   ├── all_merged_datasets_v1.ipynb
+│   ├── all_merged_datasets_v2.ipynb
+│   ├── Bio_ClinicalBERT_Disease_Prediction_Mar112025.ipynb
+│   ├── Cleveland_clinic_disease_information.ipynb
+│   ├── drugs_cg_scrapped.ipynb
+│   ├── drugsgcom_condition_scrapped_symptoms_treatment_drugs.ipynb
+│   ├── medlineplus_disease_symptoms.ipynb
+│   ├── merge_demo_amos_v3.ipynb
+│   ├── Modelling_Tfidf_plus_random_forest.ipynb
+│   └── Modelling_Tfidf_plus_random_forest_oversampling.ipynb
+│
+├── models/
+│   ├── disease_model.pkl
+│   └── tfidf_vectorizer.pkl
+│
+├── data/
+│   └── processed_diseases-priority.csv
+│
+└── README.md
+```
+
 
 ## 🧠 Technologies Used
 
