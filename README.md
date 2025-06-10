@@ -14,8 +14,8 @@ The goal of the project was to develop NLP-based solutions that can:
 The project was divided into multiple tasks. This repository includes contributions primarily related to:
 
 - **Task 1: Data Collection**
-  -Scrape data from online sources using libraries like BeautifulSoup and Scrapy.
-  -Store raw data in a centralized repository.
+  - Scrape data from online sources using libraries like BeautifulSoup and Scrapy.
+  - Store raw data in a centralized repository.
   
 - **Task 2: Data Preprocessing**
   - Data cleaning, tokenization, entity labeling.
